@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="9CPFhG_5KoBHMqAJEyNw">
+    <mxGraphModel dx="1609" dy="886" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-163" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-168" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-169" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-170" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-175" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="If9MKVC_EbJEoMU2sGIY-161">
+          <mxGeometry relative="1" x="-0.6438" as="geometry">
+            <mxPoint x="454.1343283582089" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-179" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="If9MKVC_EbJEoMU2sGIY-159">
+          <mxGeometry relative="1" x="0.0696" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="720" />
+              <mxPoint x="697.5" y="720" />
+            </Array>
+            <mxPoint x="720" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-154" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="0" vertex="1">
+          <mxGeometry height="150" width="160" x="334" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-178" parent="If9MKVC_EbJEoMU2sGIY-154" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SISTEMA DE RENTA DE VIDEO" vertex="1">
+          <mxGeometry height="50" width="91" x="34" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-165" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="567.15625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-166" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-167" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-173" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=classic;endFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" x="-0.8779" as="geometry">
+            <Array as="points">
+              <mxPoint x="122.5" y="475.5" />
+              <mxPoint x="374" y="475.5" />
+            </Array>
+            <mxPoint x="370" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-176" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" x="0.102" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="680" />
+              <mxPoint x="120" y="730" />
+              <mxPoint x="374" y="730" />
+            </Array>
+            <mxPoint x="170" y="620" as="sourcePoint" />
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-157" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="CLIENTE" vertex="1">
+          <mxGeometry height="150" width="150" x="10" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-159" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="CLIENTE" vertex="1">
+          <mxGeometry height="150" width="150" x="660" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-171" edge="1" parent="1" source="If9MKVC_EbJEoMU2sGIY-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="If9MKVC_EbJEoMU2sGIY-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-160" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="SISTEMA DE ADQUISICION DE VIDEO" vertex="1">
+          <mxGeometry height="91" width="91" x="110" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ADMINISTRACION&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="170" x="600" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CONTABILIDAD" vertex="1">
+          <mxGeometry height="50" width="170" x="490" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INFORMACION DE ESTADO DEL VIDEO" vertex="1">
+          <mxGeometry height="30" width="130" x="180" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EXTRACTO ANUAL" vertex="1">
+          <mxGeometry height="30" width="110" x="520" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PAGO" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-185" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Id_CLIENTE" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ARTICULO DE VIDEO" vertex="1">
+          <mxGeometry height="30" width="99" x="195.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CREDENCIAL DE CLIENTE" vertex="1">
+          <mxGeometry height="30" width="99" x="520" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RECIBO DE RENTA DE VIDEO" vertex="1">
+          <mxGeometry height="30" width="130" x="504.5" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EXTRACTO MENSUAL" vertex="1">
+          <mxGeometry height="30" width="99" x="520" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="REGISTRO NUEVO CLIENTE" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INFORMES PARA ADMINISTRACION" vertex="1">
+          <mxGeometry height="30" width="139.5" x="450" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EFECTIVO SOCIAL" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-194" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INFORMACION DE VIDEO" vertex="1">
+          <mxGeometry height="30" width="139.5" x="240" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="If9MKVC_EbJEoMU2sGIY-195" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;NIVEL 0 DIGRAMA DE CONTEXTO SISTEMA DE RENTA DE VIDEOS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="345" x="240" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

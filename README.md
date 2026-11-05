@@ -1,4 +1,4 @@
-<img width="733" height="922" alt="image" src="https://github.com/user-attachments/assets/c2e1c3d7-61a9-420d-a2ec-92af2513f098" /># 🎬 Sistema de Renta de Videos - MongoDB
+# 🎬 Sistema de Renta de Videos - MongoDB
 
 **Materia:** FBD-111 Fundamentos de Bases de Datos  
 **Evaluación:** Hito 3 - Grupo 2

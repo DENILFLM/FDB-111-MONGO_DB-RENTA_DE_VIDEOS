@@ -1,12 +1,12 @@
-# 🎬 Sistema de Renta de Videos - MongoDB
+# 🎬 Sistema de Renta de Videos - MongoDB.
 
 **Materia:** FBD-111 Fundamentos de Bases de Datos  
 **Evaluación:** Hito 3 - Grupo 2
 
 ## Integrantes
-- Ronald Cruz Chino
-- Denilson Davis Machaca Flores
-- Daniel Wilfredo Pomarez Huaranca
+- Ronald Cruz Chino.
+- Denilson Davis Machaca Flores.
+- Daniel Wilfredo Pomarez Huaranca.
 
 ## Descripción
 Sistema desarrollado en MongoDB para gestionar clientes, videos, adquisiciones, rentas y pagos.
